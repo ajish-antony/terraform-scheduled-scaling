@@ -27,7 +27,7 @@ type        = "t2.micro"
 
 vol_size    = "8"
 
-key         = "work.pem"
+key         = "Mention-Your-Key-File"
 
 #################################################
         # ASG Requirement
