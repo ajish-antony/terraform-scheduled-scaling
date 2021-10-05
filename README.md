@@ -1,4 +1,4 @@
-# Ec2 Scheduled Scaling
+# EC2 Scheduled Scaling
 ## (Terraform as IaC)
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
