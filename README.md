@@ -45,3 +45,11 @@ Confirm the changes and Apply the changes to the AWS architecture
 ```sh
 terraform apply
 ```
+
+
+
+### ⚙️ Connect with Me
+
+<p align="center">
+<a href="mailto:ajishantony95@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/ajish-antony/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
